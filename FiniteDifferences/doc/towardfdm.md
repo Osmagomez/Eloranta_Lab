@@ -1,5 +1,5 @@
 ## Prelimiaries
-Consdider the derivative:
+Consider the derivative:
 
     f'(x)=lim(h to 0) (f(x+h)-f(x))/h
 
